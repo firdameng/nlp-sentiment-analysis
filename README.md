@@ -1,1 +1,1 @@
-# nltp-sentiment-analysis
+# nlp-sentiment-analysis
